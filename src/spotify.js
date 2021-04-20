@@ -1,7 +1,7 @@
 
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "https://spotify-clone-taupe.vercel.app/";
+const redirectUri = "https://spotify-clone-nine.vercel.app/";
 const clientId = "d3acf985a0e748eaa64b84887fca6b4b";
 
 const scopes = [
